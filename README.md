@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi, I'm Stas 👋
 
-<!--
-**oprishkos/oprishkos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer | Strong background in Python & System Fundamentals
 
-Here are some ideas to get you started:
+I focus on software quality, test design, API validation, and performance analysis.
+I enjoy finding edge cases, analyzing system behavior, and improving reliability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔍 Areas of Expertise
+- Functional & Regression Testing
+- API Testing (REST)
+- Test Case Design
+- Bug Reporting & Root Cause Analysis
+- SQL for Data Validation
+- Basic Performance Testing
+- Linux & Networking Fundamentals
+
+---
+
+### 🛠 Tools
+Postman | Swagger | DevTools | Git | Docker | Linux | SQL | Pytest
+
+---
+
+### 📂 Featured Projects
+- API Test Automation (Pytest + Requests)
+- Web Testing Portfolio (Manual test cases & bug reports)
+- Performance Testing Demo
+- SQL Data Validation Tasks
+
+---
+
+### 📫 Contact
+Email: your_email
+Telegram: your_telegram
+LinkedIn: link
