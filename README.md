@@ -19,7 +19,7 @@ I enjoy finding edge cases, analyzing system behavior, and improving reliability
 ---
 
 ### 🛠 Tools
-Postman | Swagger | DevTools | Git | Docker | Linux | SQL | Pytest
+Postman | Swagger | DevTools | Git | Docker | Linux | SQL | Pytest | Selenium | Charles
 
 ---
 
