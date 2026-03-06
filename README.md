@@ -1,36 +1,52 @@
-## Hi, I'm Stas 👋
+# Привет 👋 Меня зовут Станислав!
 
-QA Engineer | Strong background in Python & System Fundamentals
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/твой_username)
 
-I focus on software quality, test design, API validation, and performance analysis.
-I enjoy finding edge cases, analyzing system behavior, and improving reliability.
-
----
-
-### 🔍 Areas of Expertise
-- Functional & Regression Testing
-- API Testing (REST)
-- Test Case Design
-- Bug Reporting & Root Cause Analysis
-- SQL for Data Validation
-- Basic Performance Testing
-- Linux & Networking Fundamentals
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=твой_username.твой_username)
 
 ---
 
-### 🛠 Tools
-Postman | Swagger | DevTools | Git | Docker | Linux | SQL | Pytest | Selenium | Charles
+## 🧪 Обо мне
+
+Я начинающий QA Engineer с сильным background в Python-разработке. Учусь на 3-м курсе ФПМИ БГУ по специальности прикладная математика.
+
+К тестированию пришёл через разработку — прошёл курс Python Developer от T-Bank Academy, участвовал в хакатоне в роли тестировщика, разработал и протестировал собственный pet-проект. Мне нравится находить баги, думать о граничных случаях и делать продукты лучше.
+
+- 🎓 Прошёл курс **Python Developer** от T-Bank Academy
+- 🎓 Прошёл курс **"От нуля до QA Manual"** на Stepik
+- 🚀 Разработал и протестировал сайт для репетиторского агентства с AI на FastAPI
+- 🏆 Участвовал в хакатоне в роли тестировщика
+- 🏀 Увлекаюсь баскетболом и шахматами
 
 ---
 
-### 📂 Featured Projects
-- API Test Automation (Pytest + Requests)
-- Web Testing Portfolio (Manual test cases & bug reports)
-- Performance Testing Demo
-- SQL Data Validation Tasks
+## 🛠️ Технологии:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ---
 
-### 📫 Contact
-Email: oprishko.stas@gmail.com
-Telegram: @bocxo2
+## 📊 Моя статистика:
+
+![Stanislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=oprishkos&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oprishkos&layout=compact&theme=dark)
+
+---
+
+## 📂 Мои проекты:
+
+| Проект | Описание | Стек |
+|---|---|---|
+| 🧪 [Sandbox UI Tests](https://github.com/oprishkos/sandbox-tests) | Автотесты для AQA Sandbox | Selenium, Pytest |
