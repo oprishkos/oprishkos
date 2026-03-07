@@ -48,3 +48,4 @@
 | Проект | Описание | Стек |
 |---|---|---|
 | 🧪 [Sandbox UI Tests](https://github.com/oprishkos/sandbox-tests) | Автотесты для AQA Sandbox | Selenium, Pytest |
+|     [Stark Games QA][]                                            |   Test-case      | Python (Pytest, Selenium) |
