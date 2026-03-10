@@ -48,5 +48,5 @@
 | Проект | Описание | Стек |
 |---|---|---|
 | 🧪 [Sandbox UI Tests](https://github.com/oprishkos/test_sandbox) | Автотесты для AQA Sandbox | Selenium, Pytest |
-| 🎮 [Stark Games QA](https://github.com/oprishkos/stark-games-qa) | Test-case | Bag-report |
+| 🎮 [Stark Games QA](https://github.com/oprishkos/stark-games-qa-test-task) | Test-case | Bag-report |
 | 🐼 [PandaTutor](https://github.com/oprishkos/panda_tutor) | Маркетплейс для онлайн-репетиторства | Flask, SQLAlchemy, Docker |
