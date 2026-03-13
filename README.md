@@ -51,3 +51,4 @@
 | 🧪 [Sandbox UI Tests](https://github.com/oprishkos/test_sandbox) | Автотесты для AQA Sandbox | Selenium, Pytest |
 | 🎮 [Stark Games QA](https://github.com/oprishkos/stark-games-qa-test-task) | Test-case | Bag-report |
 | 🐼 [PandaTutor](https://github.com/oprishkos/panda_tutor) | Маркетплейс для онлайн-репетиторства | Flask, SQLAlchemy, Docker |
+| 🐼 [PandaAI](https://github.com/oprishkos/tutor_AI) | Сайт подборки заданий для репетиторов | Flask, Pydantic, SQLAlchemy |
