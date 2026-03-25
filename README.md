@@ -39,6 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Playwright](https://img.shields.io/badge/Fiddler-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 ---
 
@@ -52,3 +53,4 @@
 | 🎮 [Stark Games QA](https://github.com/oprishkos/stark-games-qa-test-task) | Test-case | Bag-report |
 | 🐼 [PandaTutor](https://github.com/oprishkos/panda_tutor) | Маркетплейс для онлайн-репетиторства | Flask, SQLAlchemy, Docker |
 | 🐼 [PandaAI](https://github.com/oprishkos/tutor_AI) | Сайт подборки заданий для репетиторов | Flask, Pydantic, SQLAlchemy |
+|     [Course Kafka](https://oprishkos.github.io/course_kafka/) | Курс на русском по Apache Kafka | Kafka |
